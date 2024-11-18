@@ -3,8 +3,7 @@
 
 <img width="842" alt="Screenshot 2024-11-17 at 14 53 11" src="https://github.com/p2kalita/PolicyLens_India/blob/main/dev-architecture.png">
 
-This is a fine-tuned model of Gemma 2B. The fine-tuned model was trained with Indian Parliamentary Debate dataset, PolicyLens aims to bridge this gap by using Large Language Models (LLMs) to summarize complex legislative discussions into clear and concise summaries.
-•  The goal is to make parliamentary proceedings more understandable and to empower Indians to participate in the democratic process.
+This is a fine-tuned model of Gemma 2B. The fine-tuned model was trained with Indian Parliamentary Debate dataset, PolicyLens aims to bridge this gap by using Large Language Models (LLMs) to summarize complex legislative discussions into clear and concise summaries. The goal is to make parliamentary proceedings more understandable and to empower Indians to participate in the democratic process.
 
 # Project Details 
 - Programming Language: Python
